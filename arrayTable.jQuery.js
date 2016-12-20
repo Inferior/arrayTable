@@ -4,10 +4,11 @@
 *
 *  Options:
 *    - dataArray (Multi-Directional Array) | List of data to add into the table
-*    - headersIncluded (Boolean) | Does the first row of the array contain headers
+*    - headersIncluded (Boolean) | Does the array contain header values
 *    - tableId (String) | Custom ID for the tableId
 *    - sortByIndex (Integer) | Array index to sort the list by
-*    - results per page (Integer) | Number of results to display
+*    - fixedListLength (Boolean) | Does the list have a fixed length
+*    - fixedLength (Integer) | Number of rows to include in the table
 *
 */
 

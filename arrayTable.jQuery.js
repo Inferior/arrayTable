@@ -4,7 +4,7 @@
 *
 *  Options:
 *    - dataArray (Multi-Directional Array) | List of data to add into the table
-*    - headersIncluded (Boolean) | Does the first
+*    - headersIncluded (Boolean) | Does the first row of the array contain headers
 *    - tableId (String) | Custom ID for the tableId
 *    - sortByIndex (Integer) | Array index to sort the list by
 *    - results per page (Integer) | Number of results to display
